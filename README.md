@@ -9,6 +9,8 @@ DOMAIN: Cyber Security & Ethical Hacking
 
 DURATION: 6 weeks
 
+MENTOR: Neela Santhosh
+
 🔐 Project: File Integrity Checker using Python 📝 Description The purpose of this project is to develop a File Integrity Checker – a security tool that monitors and verifies the integrity of files by calculating and comparing cryptographic hash values. This is a fundamental concept in cybersecurity used to detect unauthorized changes, tampering, or corruption in file systems. The tool was implemented in Python and executed within a Kali Linux environment, leveraging its built-in terminal, Python interpreter, and file system tools.
 
 File integrity verification is critical in environments where security and compliance are paramount, such as server administration, malware analysis, and forensic investigations. By storing the original hash values of files and later comparing them to current values, the tool can identify whether files have been added, modified, or deleted. Any change in hash values indicates a potential security event such as unauthorized access, malicious modification, or even accidental data corruption.
